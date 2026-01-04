@@ -149,22 +149,6 @@ GET /api/analytics/income-vs-expense?userId=u1
 
 ---
 
-## 🏷 GitHub Tags
-
-spring-boot
-mongodb
-rest-api
-backend
-java
-expense-tracker
-
-```
-
----
-
-## ✅ END HERE ⬆️
-
----
  
 ❓ **Did you revise Java today?**
 ```
